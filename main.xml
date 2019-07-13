@@ -1,0 +1,18 @@
+<table name="PSA Extra Attachments" image="guis/psa_ext" color="Color(0.8, 0.2, 0.8)">
+
+	<Localization directory="locals" default="english.txt"/>
+	
+<!--<AssetUpdates id="xxxxx" name="asset_updates" folder_name="PSA Commando" version="1.0" provider="modworkshop"/>-->
+
+	<GlobalValue id="psa_ext" color="Color(0.8, 0.2, 0.8)"/>
+	
+	<XML path="weaponmod.xml"/>
+<!--<XML path="sounds.xml"/>-->
+	
+	<Hooks directory="hooks">
+	<!--<hook file="playertweakdata.lua" source_file="lib/tweak_data/playertweakdata"/>
+		<hook file="weaponfactorytweakdata.lua" source_file="lib/tweak_data/weaponfactorytweakdata"/>	
+		<hook file="weapontweakdata.lua" source_file="lib/tweak_data/weapontweakdata"/>	-->
+	</Hooks>
+	
+</table>

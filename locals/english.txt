@@ -1,0 +1,30 @@
+{
+
+	"menu_l_global_value_nam"	   : "Welcome to the Jungle!",
+	
+	"bm_w_nam" : "PSA Commando",
+	
+	"bm_menu_receiver_lower"      	: "Lower Receiver",
+	"bm_menu_receiver_lower_plural" : "Lower Receivers",
+	"bm_menu_trigger"      		    : "Trigger",
+	"bm_menu_trigger_plural"        : "Triggers",
+	"bm_menu_handguard"     	    : "Handguard",
+	"bm_menu_handguard_plural"      : "Handguards",
+	
+	"bm_wp_wpn_fps_ass_psa_all_lr_zdann" : "PSA Shovel-15 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_matt"  : "PSA Videogame Firearm Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_lemon" : "PSA HD AR-15 Lower Receiver Retexture",
+	
+	"bm_wp_wpn_fps_ass_psa_all_lr_90125" : "PSA Yes-15 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_skull" : "Crosskill Tactical CAR-4 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_gacha" : "404 TEAM Lower Receiver",
+	
+	"bm_wp_wpn_fps_ass_psa_all_lr_snek"  : "PSA Snek-15 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_m4car" : "Colt M4 Carbine Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_aero"  : "Aero Precision X15 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_fn15"  : "FN-15 Lower Receiver",
+	
+	"bm_wp_wpn_fps_ass_psa_all_lr_rusty" : "Abandoned Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_blank" : "Unmarked Lower Receiver"
+	
+}

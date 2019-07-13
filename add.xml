@@ -1,0 +1,160 @@
+<AddFiles directory="assets">
+
+	<!-- RECEIVER PTS -->
+
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_zdann_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_zdann_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_zdann_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_zdann_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_matt_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_matt_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_matt_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4car_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_snek_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_snek_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_snek_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_snek_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_rusty_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_rusty_cc"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_rusty_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_blank_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_blank_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_blank_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_blank_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_lemon_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_lemon_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_lemon_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_lemon_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_skull_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_skull_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_skull_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_aero_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_aero_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_aero_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_aero_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_fn15_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_fn15_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_fn15_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_fn15_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_gacha_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_gacha_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_gacha_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_cc_thq"/>
+
+</AddFiles>
