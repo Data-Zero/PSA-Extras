@@ -18,6 +18,7 @@
 	"bm_wp_wpn_fps_ass_psa_all_lr_90125" : "PSA Yes-15 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_skull" : "Crosskill Tactical CAR-4 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_gacha" : "404 TEAM Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_tdoll" : "AR TEAM Lower Receiver",
 	
 	"bm_wp_wpn_fps_ass_psa_all_lr_snek"  : "PSA Snek-15 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_m4car" : "Colt M4 Carbine Lower Receiver",

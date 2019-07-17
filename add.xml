@@ -156,5 +156,18 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_thq"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_gacha_cc_thq"/>
+	
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_tdoll_df"/>
+	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_tdoll_cc"/>
+	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_tdoll_nm"/>
+
+	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll"/>
+	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll"/>
+	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll"/>
+	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll_thq"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll_cc"/>
+	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll_cc_thq"/>
 
 </AddFiles>
