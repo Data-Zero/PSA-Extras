@@ -1,4 +1,4 @@
-<table name="PSA Extra Attachments" image="guis/psa_ext" color="Color(0.8, 0.2, 0.8)">
+<table name="PSA Extras" image="guis/psa_ext" color="Color(0.8, 0.2, 0.8)">
 
 	<Localization directory="locals" default="english.txt"/>
 	
