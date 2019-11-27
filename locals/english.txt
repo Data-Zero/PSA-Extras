@@ -26,6 +26,8 @@
 	"bm_wp_wpn_fps_ass_psa_all_lr_fn15"  : "FN-15 Lower Receiver",
 	
 	"bm_wp_wpn_fps_ass_psa_all_lr_rusty" : "Abandoned Lower Receiver",
-	"bm_wp_wpn_fps_ass_psa_all_lr_blank" : "Unmarked Lower Receiver"
+	"bm_wp_wpn_fps_ass_psa_all_lr_blank" : "Unmarked Lower Receiver",
+	
+	"bm_wp_wpn_fps_ass_psa_all_st_car15" : "Test CAR-15 Stock!!"
 	
 }
