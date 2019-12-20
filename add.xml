@@ -170,6 +170,8 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_tdoll_cc_thq"/>
 	
-	<unit_mat_cc path="units/mods/weapons/wpn_fps_ass_psa_all_stock_pts/wpn_fps_ass_psa_all_st_car15"/>
+	<df_nm_cc		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4e1"/>
+
+	<unit_mat_cc	 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_m4e1"/>
 
 </AddFiles>

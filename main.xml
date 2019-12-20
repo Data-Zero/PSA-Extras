@@ -6,6 +6,8 @@
 
 	<GlobalValue id="psa_ext" color="Color(0.8, 0.2, 0.8)"/>
 	
+	<GlobalValue id="kden"	  color="Color(0.8, 0.8, 0.2)"/>
+	
 	<XML path="weaponmod.xml"/>
 <!--<XML path="sounds.xml"/>-->
 	
