@@ -22,7 +22,7 @@
 	
 	"bm_wp_wpn_fps_ass_psa_all_lr_snek"  : "PSA Snek-15 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_m4car" : "Colt M4 Carbine Lower Receiver",
-	"bm_wp_wpn_fps_ass_psa_all_lr_m4car" : "Aero Precision M4E1 Lower Receiver",
+	"bm_wp_wpn_fps_ass_psa_all_lr_m4e1"  : "Aero Precision M4E1 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_aero"  : "Aero Precision X15 Lower Receiver",
 	"bm_wp_wpn_fps_ass_psa_all_lr_fn15"  : "FN-15 Lower Receiver",
 	
