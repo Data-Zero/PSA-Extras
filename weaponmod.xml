@@ -87,16 +87,6 @@
 	
 	<!-- LOWERS - OTHER -->
 	
-	<WeaponMod id="wpn_fps_ass_psa_all_lr_90125" based_on="wpn_fps_snp_tti_body_receiverlower" type="receiver_lower" unit="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
-		<weapons>
-			<value_node value="wpn_fps_ass_psa_black"/>
-			<value_node value="wpn_fps_ass_adar"/>
-			<value_node value="wpn_fps_ass_tr1"/>
-			<value_node value="wpn_fps_smg_betty"/>
-		</weapons>
-		<pcs/>
-	</WeaponMod>
-	
 	<WeaponMod id="wpn_fps_ass_psa_all_lr_skull" based_on="wpn_fps_snp_tti_body_receiverlower" type="receiver_lower" unit="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_skull" texture_bundle_folder="mods" drop="false" is_a_unlockable="true">
 		<weapons>
 			<value_node value="wpn_fps_ass_psa_black"/>

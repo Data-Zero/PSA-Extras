@@ -28,19 +28,6 @@
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt_cc"/>
 	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_matt_cc_thq"/>
 	
-	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_df"/>
-	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_cc"/>
-	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_90125_nm"/>
-
-	<cooked_physics  path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
-	<model  		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
-	<object 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
-	<unit			 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_thq"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_cc"/>
-	<material_config path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/wpn_fps_ass_psa_all_lr_90125_cc_thq"/>
-	
 	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_df"/>
 	<texture		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_cc"/>
 	<texture 		 path="units/mods/weapons/wpn_fps_ass_psa_all_receiver_pts/receiver_lower_m4car_nm"/>
